@@ -1,0 +1,7 @@
+body{font-family: Arial, sans-serif; background: linear-gradient(135deg,#0f172a,#065f46); color: white; min-height:100vh}
+.app{max-width:900px;margin:30px auto;padding:20px}
+header h1{margin:0}
+.day-card{background:rgba(255,255,255,0.06);padding:12px;border-radius:10px;margin:10px 0}
+.task-card{display:flex;justify-content:space-between;padding:8px;border-bottom:1px solid rgba(255,255,255,0.04)}
+.controls{margin:14px 0}
+button{padding:8px 12px;border-radius:8px;border:none;cursor:pointer}

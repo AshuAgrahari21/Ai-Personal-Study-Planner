@@ -1,0 +1,8 @@
+{
+"daily_hours": 4,
+"subjects": [
+{"name":"DSA","chapters":[{"title":"Trees","est_hours":2,"difficulty":3},{"title":"Graphs","est_hours":2,"difficulty":3}]},
+{"name":"DBMS","chapters":[{"title":"Joins","est_hours":1,"difficulty":2}]},
+{"name":"Java","chapters":[{"title":"OOP","est_hours":1.5,"difficulty":2}]}
+]
+}
